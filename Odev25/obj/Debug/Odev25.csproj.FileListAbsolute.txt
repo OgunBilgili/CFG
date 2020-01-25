@@ -1,0 +1,9 @@
+C:\Users\ogunb\source\repos\Odev25\Odev25\bin\Debug\Odev25.exe.config
+C:\Users\ogunb\source\repos\Odev25\Odev25\bin\Debug\Odev25.exe
+C:\Users\ogunb\source\repos\Odev25\Odev25\bin\Debug\Odev25.pdb
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.csprojAssemblyReference.cache
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.Form1.resources
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.Properties.Resources.resources
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.csproj.GenerateResource.cache
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.exe
+C:\Users\ogunb\source\repos\Odev25\Odev25\obj\Debug\Odev25.pdb
